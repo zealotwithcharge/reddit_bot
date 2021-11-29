@@ -8,6 +8,9 @@ This is a repository with code for bots that serve various functions. \
 ## Politician
 These bots clearly support Lord Buckethead while clearly goes against Trump.
 ### Favorite Bot post
+https://old.reddit.com/r/BotTown2/comments/r4kobz/vaccine_misinformation_in_rwayofthebern/hmhl809/
+![Favorite Bot Interaction](favorite_comment.png)
+I liked this comment, because the bot seems like its responding to the comment in a meaningful way, but if you carefully read the comment, it does not make much sense at all.
 
 #### Results
 BotssasinsCreed
@@ -68,7 +71,7 @@ My github repo has all the required elements. +2\
 Extra Credit worth two points (ECT) 1~3: The sum of the comments posted by my bots well exceeds 1000. +6\
 ECT 4: My submitter is able to submit over 200 submissions. +2\
 ECT 6: I calculated the highest voted comment in `comments_without_replies2` and voted accordingly. +2\
-ECT 7: I used the TextBlob library to access and upvote accordingly for both comments and submissions. +2\
+ECT 7: I used the TextBlob library to access and upvote accordingly for both comments and submissions. +4\
 Extra Credit worth five points: I used a GPT-2 algorithm to generate my text. +5\
 \
 Judgement Call:
@@ -77,7 +80,7 @@ The initial subreddit "BotTown" was banned while running `bot_counter.py` for `G
 it does not show the rest of the results. While I firmly believe that `GrandTheftBot` posted more than 500 valid comments, I unfortunately lack the proof.\
 If you accept the circumstantial evidence, I think I deserve the two points.\
 \
-Minimum score: 18+2+6+2+2+2+5 = 37 Points\
-Maximum score: (Min Score) + 2 = 39 Points\
+Minimum score: 18+2+6+2+2+4+5 = 39 Points\
+Maximum score: (Min Score) + 2 = 41 Points\
 
 
